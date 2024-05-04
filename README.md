@@ -1,2 +1,2 @@
 # CyberStart
-CyberStart Çalışmaları
+CyberStart çalışmalarını burada görebilirsiniz.
